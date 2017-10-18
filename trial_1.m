@@ -1,3 +1,4 @@
+ben de seni cok sevyorumm ilk ben dedimm :p 
 %%
 clear all
 load asset1.mat
