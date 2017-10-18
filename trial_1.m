@@ -1,3 +1,4 @@
+Seni seviyorummmmmm
 %%
 clear all
 load asset1.mat
